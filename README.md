@@ -1,7 +1,7 @@
 # Temperature Conversion
 
-## Assigned: Friday, September 10, 2021
-## Due: Monday, September 13, 2021
+## Assigned: Friday, September 17, 2021
+## Due: Monday, September 20, 2021
 
 After cloning this repository to your computer, please take the following steps:
 
