@@ -7,7 +7,7 @@ After cloning this repository to your computer, please take the following steps:
 
 - Follow the instructions on the Proactive Programmers web site for this project
 - Use the `cd` command to change into the directory for this repository.
-- Change into the program directory by typing `cd average`.
+- Change into the program directory by typing `cd converter`.
 - Install the dependencies for the project by typing `poetry install`
 - Run the program in its two different modes by typing:
   - `poetry run converter --from-unit Celsius --to-unit Fahrenheit --temperature 22`
