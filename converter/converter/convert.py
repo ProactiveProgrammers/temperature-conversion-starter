@@ -3,14 +3,14 @@
 from converter import units
 
 
-def convert_celsius_to_fahrenheit(temperature: float):
+def convert_celsius_to_fahrenheit(temperature: float) -> float:
     """Convert the provided temperature from Celsius to Fahrenheit."""
     # TODO: convert the temperature from Celsius to Fahrenheit
     # TODO: delete this placeholder return statement and add the correct one
     return 0
 
 
-def convert_fahrenheit_to_celsius(temperature: float):
+def convert_fahrenheit_to_celsius(temperature: float) -> float:
     """Convert the provided temperature from Fahrenheit to Celsius."""
     # TODO: convert the temperature from Fahrenheit to Celsius
     # TODO: delete this placeholder return statement and add the correct one
