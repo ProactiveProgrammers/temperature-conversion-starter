@@ -45,7 +45,7 @@ TODO: Write at least one paragraph to explain the request source code
 TODO: Use a fenced code block to provide the requested source code
 TODO: Write at least one paragraph to explain the request source code
 
-#### Execute trace of the `converter` program
+#### Execution trace of the `converter` program
 
 TODO: Explain each function call that takes place for the following run of the program
 TODO: Write at least one paragraph to explain every function call when running `converter`
