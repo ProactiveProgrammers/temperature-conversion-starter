@@ -55,6 +55,9 @@ function in the `main` module, explain all of the subsequent function calls in
 the correct order, and then show how the program's control returns to the
 `converter` function in the `main` module.
 
+TODO: You can explain what steps the program would take under the assumption
+that it was run with the following command-line and command-line arguments
+
 - `poetry run converter --from-unit Celsius --to-unit Fahrenheit --temperature 22`
 
 ## Professional Assessment
