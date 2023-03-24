@@ -63,6 +63,6 @@ the correct order, and then show how the program's control returns to the
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
 
-### Based on your experiences with this project, what is one way in which you want to improve?
+### Based on your experiences with this project, what is one additional way in which you want to improve?
 
 TODO: Provide a one-paragraph response that answers this question in your own words.
