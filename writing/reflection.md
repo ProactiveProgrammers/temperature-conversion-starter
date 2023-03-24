@@ -7,6 +7,15 @@ content. This means that when you are finished with this reflection it
 should contain polished responses that are suitable for publication on
 your professional web site.
 
+TODO: When you are working on this project, please use descriptive commit
+messages. This mean that, as you are committing your source code, you should pay
+careful attention to the commit message that you write! Specifically, you should
+make sure that your commit message features a sentence with an active verb and a
+clear description of the way in which you changed the source code. You can read
+the article [How to Write a Git Commit Message](https://cbea.ms/git-commit/) by
+[Chris Beams](https://cbea.ms/) to discover some suggestions for ways to improve
+the quality of your Git commit messages when you work on this project.
+
 ## Add Your Name Here
 
 ## Program Output
