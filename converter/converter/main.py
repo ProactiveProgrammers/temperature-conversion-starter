@@ -1,5 +1,8 @@
 """Perform temperature conversion between Fahrenheit and Celsius."""
 
+# TODO: Add all of the required source code to this file so
+# that it can produce all of the required output
+
 from rich.console import Console
 
 import typer
